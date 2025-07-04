@@ -1,9 +1,11 @@
 <h1 align="center">Hello World! I'm<span style="color:#ffa500">Nguyen Ngoc Hai Hoan</span>!</h1>
+
 <blockquote align="center">
   <b>"Embrace new challenges. Keep learning. Adapt constantly. Code, evolve, repeat."</b>
 </blockquote>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=F7F7F7&center=true&vCenter=true&width=420&lines=Software+Engineering+Student;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <b>Software Engineering Student • Full-Stack Developer • Clean Code Enthusiast</b>
 </p>
 
 <p align="center">
