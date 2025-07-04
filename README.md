@@ -20,6 +20,7 @@
 </p>
 
 ---
+<hr>
 
 ### 🔧 Technologies
 <div align="left">
@@ -45,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
 </div>
-
+<hr>
 ---
 
 ### 📊 GitHub Stats
