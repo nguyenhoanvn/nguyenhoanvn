@@ -1,31 +1,25 @@
-<h1 align="center">Hello World! I'm<span style="color:#ffa500">Nguyen Ngoc Hai Hoan</span>!</h1>
+<h2 align="left">Hello there! I'm Bui Viet Dung</h2>
 
-<blockquote align="center">
-  <b>"Embrace new challenges. Keep learning. Adapt constantly. Code, evolve, repeat."</b>
-</blockquote>
-
-<p align="center">
-  <b>Software Engineering Student • Full-Stack Developer • Clean Code Enthusiast</b>
+<p align="left">
+  📚 K101 Nam Dinh Le Hong Phong Specialized High School<br>
+  🎓 K19 FPT University (Software Engineering Undergraduate)
 </p>
 
-<p align="center">
-  <b>🎓 K19 FPT University — Software Engineering Undergraduate</b>
+---
+
+<p align="left">
+  I'm a Software Engineering student passionate about building full-stack web applications and developing scalable backend systems.
 </p>
 
-<hr>
-
-<p align="center">
-  🚀 <b>I am a passionate Software Engineering student, driven by curiosity and a love for learning. My focus is on building robust full-stack web applications and architecting scalable, maintainable backend systems that make an impact.</b>
+<p align="left">
+    I specialize in <strong>Java, Spring Boot, Vue.js</strong>, and modern web technologies like TailwindCSS and PostgreSQL. I love working on hands-on projects and continuously growing my skill set through real-world development.
 </p>
 
-<p align="center">
-  <b>Expertise:</b> <b style="color:#E44D26;">Java</b>, <b style="color:#6DB33F;">Spring Boot</b>, <b style="color:#42B883;">C#</b>, plus some technologies including MySQL, SQL Server and .NET Framework.<br>
-  <i>I thrive in hands-on environments, turning ideas into reality through real-world projects and continuous skill development.</i>
+<p align="left">
+  I'm committed to writing clean, maintainable code and contributing to meaningful systems that bring value to both users and organizations.
 </p>
 
-<p align="center">
-  💡 <b>I believe in clean, efficient code and strive to deliver software that’s not only functional but also elegant and reliable. My mission is to build meaningful products that bring real value to both users and organizations.</b>
-</p>
+---
 
 ### 🔧 Technologies
 <div align="left">
@@ -51,3 +45,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QingTian1927&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QingTian1927&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+> 🔍 "Build fast, learn faster, and never stop refining your craft."
