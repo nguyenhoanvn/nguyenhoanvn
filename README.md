@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hello World! I'm<span style="color:#ffa500">Nguyen Ngoc Hai Hoan</span>!</h1>
+<blockquote align="center">
+  <b>"Embrace new challenges. Keep learning. Adapt constantly. Code, evolve, repeat."</b>
+</blockquote>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=F7F7F7&center=true&vCenter=true&width=420&lines=Software+Engineering+Student;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**nguyenhoanvn/nguyenhoanvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🎓 K19 FPT University — Software Engineering Undergraduate</b>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 <b>I am a passionate Software Engineering student, driven by curiosity and a love for learning. My focus is on building robust full-stack web applications and architecting scalable, maintainable backend systems that make an impact.</b>
+</p>
+
+<p align="center">
+  <b>Expertise:</b> <b style="color:#E44D26;">Java</b>, <b style="color:#6DB33F;">Spring Boot</b>, <b style="color:#42B883;">C#</b>, plus some technologies including MySQL, SQL Server and .NET Framework.<br>
+  <i>I thrive in hands-on environments, turning ideas into reality through real-world projects and continuous skill development.</i>
+</p>
+
+<p align="center">
+  💡 <b>I believe in clean, efficient code and strive to deliver software that’s not only functional but also elegant and reliable. My mission is to build meaningful products that bring real value to both users and organizations.</b>
+</p>
+
+<hr>
+
+<h2 align="center">🛠️ Core Technologies</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
+</p>
