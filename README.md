@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   <ul>
-    <li><b>09/2023:</b> Wrote my first Hello World program in C. My first course was CS50 of Havard University. That course was a life changing course, it gave me overview of the Computer Science world, and also a foundation of coding/development.</li>
+    <li><b>11/2023:</b> Wrote my first Hello World program in C. My first course was CS50 of Havard University. That course was a life changing course, it gave me overview of the Computer Science world, and also a foundation of coding/development.</li>
     <li><b>02/2024:</b> My first OOP program is complete. It's an Order Management System, a console app allows user to perform CRUD operations.</li>
     <li><b>08/2024:</b> First time touching database, it's a bit hard at the start, but in the end I managed to understand it. During this time, I also got to know Data Structure such as Tree, Graph, HashMap, Stack, and Queue.</li>
     <li><b>01/2025:</b> My first Internet Of Things project is completed, it's an alarm clock using Arduino Uno as its microcontroller, LED matrix 8x32 as the screen, I can also use bluetooth signal to control its display string, set timezone by using the HC-05 module.</li>
