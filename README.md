@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  <b>Expertise:</b> <b style="color:#E44D26;">Java</b>, <b style="color:#6DB33F;">Spring Boot</b>, <b style="color:#42B883;">C#</b>, plus some technologies including MySQL, SQL Server and .NET Framework.<br>
+  <b>Expertise:</b> <b style="color:#E44D26;">Java</b>, <b style="color:#6DB33F;">Spring Boot</b>, <b style="color:#42B883;">C#</b>, plus some technologies including <b>MySQL</b>, <b>SQL Server</b> and <b>.NET Framework</b>.<br>
   <i>I thrive in hands-on environments, turning ideas into reality through real-world projects and continuous skill development.</i>
 </p>
 
